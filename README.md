@@ -1,4 +1,4 @@
-#Trikey Generator
+# Trikey Generator
 
     RNG:
 	The Trikey Generator has a cryptographic pseudo-random number generator (PRNG)
@@ -32,5 +32,5 @@
     Initialization Vectors (IV):
         IVs are appended after each encryption step.
 
-Goal:
+
 The primary goal of the Trikey Generator is to produce certificates that are resilient in the post-quantum and AI era, minimizing dependence on single points of failure. The aspiration is for these certificates to remain unbroken until the year 2050, thereby ensuring long-term security.
